@@ -32,7 +32,7 @@ OneTechCloud官网：[https://www.onetechcloud.com](https://www.onetechcloud.com
 美国CERA机房提供三网回程CN2 GIA线路，并配有20G防御。
 
 | CPU | 内存 | 硬盘 | 带宽 | 流量 | 价格 | 购买链接 |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1核 | 1GB | 20GB | 20M | 1T/月 | 35元/月 | [链接](https://www.onetechcloud.com/cart?fid=1&gid=2&aff=YLGJCHIN) |
 | 2核 | 2GB | 40GB | 30M | 2T/月 | 70元/月 | [链接](https://www.onetechcloud.com/cart?fid=1&gid=2&aff=YLGJCHIN) |
 | 4核 | 4GB | 60GB | 40M | 4T/月 | 140元/月 | [链接](https://www.onetechcloud.com/cart?fid=1&gid=2&aff=YLGJCHIN) |
